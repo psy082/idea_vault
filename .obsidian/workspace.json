@@ -11,13 +11,60 @@
             "id": "9b4b10ccb6ba77a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "문헌 메모/객체지향 프로그래밍/동시성 제어 매커니즘.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "동시성 제어 매커니즘"
+            }
+          },
+          {
+            "id": "39f3d80975920a3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문헌 메모/테스트/시스템 테스트.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "시스템 테스트"
+            }
+          },
+          {
+            "id": "5575983b574a86b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문헌 메모/소프트웨어 정합성.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "소프트웨어 정합성"
+            }
+          },
+          {
+            "id": "537b24d1ef6abe2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문헌 메모/객체지향 프로그래밍/계약에 의한 설계(design by contract).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "계약에 의한 설계(design by contract)"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "문헌 메모/객체지향 프로그래밍/계약에 의한 설계(design by contract).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "계약에 의한 설계(design by contract) 의 백링크"
             }
           },
           {
@@ -108,11 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "문헌 메모/객체지향 프로그래밍/계약에 의한 설계(design by contract).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "계약에 의한 설계(design by contract) 의 나가는 링크"
             }
           },
           {
@@ -136,21 +185,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "문헌 메모/객체지향 프로그래밍/계약에 의한 설계(design by contract).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "환영합니다! 의 개요"
+              "title": "계약에 의한 설계(design by contract) 의 개요"
+            }
+          },
+          {
+            "id": "cc2c7adf6eb7f9c7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 445.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,12 +218,42 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "zk-prefixer:새 고유 노트 생성": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "481ec77cbb713bfa",
   "lastOpenFiles": [
-    "함수형 프로그래밍",
-    "환영합니다!.md"
+    "문헌 메모/멘탈 모델.md",
+    "임시 메모/수치심과 정당화에 대한 생물학적 설명.md",
+    "영구보관용 메모",
+    "문헌 메모",
+    "임시 메모",
+    "무제.md",
+    "문헌 메모/소프트웨어 정합성.md",
+    "문헌 메모/테스트/시스템 테스트.md",
+    "문헌 메모/테스트/통합 테스트.md",
+    "문헌 메모/테스트/속성 기반 테스트.md",
+    "문헌 메모/객체지향 프로그래밍/CQRS.md",
+    "문헌 메모/디자인 패턴/추상 팩토리 패턴.md",
+    "문헌 메모/테스트",
+    "문헌 메모/객체지향 프로그래밍/스레드 안전 컬렉션.md",
+    "문헌 메모/객체지향 프로그래밍/락.md",
+    "문헌 메모/객체지향 프로그래밍/세마포어.md",
+    "문헌 메모/객체지향 프로그래밍/뮤텍스.md",
+    "문헌 메모/객체지향 프로그래밍/동시성 제어 매커니즘.md",
+    "문헌 메모/코드 제어/async await.md",
+    "문헌 메모/타입스크립트",
+    "문헌 메모/코드 제어/동기 vs 비동기.md",
+    "문헌 메모/코드 제어/제네레이터.md",
+    "문헌 메모/코드 제어/코루틴.md",
+    "문헌 메모/객체지향 프로그래밍/계약에 의한 설계(design by contract).md",
+    "문헌 메모/코드 제어",
+    "환영합니다!.md",
+    "문헌 메모/객체지향 프로그래밍",
+    "프롬프트 엔지니어링",
+    "문헌 메모/디자인 패턴",
+    "문헌 메모/함수형 프로그래밍"
   ]
 }
